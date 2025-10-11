@@ -1,14 +1,14 @@
 ## Hi 👋 I'm Jana! 
 
-## 📚 Projects
+### 📚 Projects
 My portfolio is currently under construction, but feel free to take a look at the current progress!
 
-## 🛠️ Tools
+### 🛠️ Tools
 - Programming & Analysis: R, Python, SQL, Java, C++, JavaScript
 - Data Visualization & Tools: Microsoft Office Suite (Excel, Word, PowerPoint), Power BI, Git, Google Cloud
 - Web & Software Development: HTML, CSS, PHP, JSON, Oracle, Unity
 
-## 👋🏻 Connect with Me
+### 👋🏻 Connect with Me
 Connect with me on [LinkedIn](https://www.linkedin.com/in/janachittarath/)!
 
 <!--
