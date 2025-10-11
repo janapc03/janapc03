@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi 👋 I'm Jana! 
+
+## 📚 Projects
+My portfolio is currently under construction, but feel free to take a look at the current progress!
+
+## 🛠️ Tools
+- Programming & Analysis: R, Python, SQL, Java, C++, JavaScript
+- Data Visualization & Tools: Microsoft Office Suite (Excel, Word, PowerPoint), Power BI, Git, Google Cloud
+- Web & Software Development: HTML, CSS, PHP, JSON, Oracle, Unity
+
+## 👋🏻 Connect with Me
+Connect with me on [LinkedIn](https://www.linkedin.com/in/janachittarath/)!
 
 <!--
 **janapc03/janapc03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
