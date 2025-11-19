@@ -8,7 +8,7 @@ Take a look at [my portfolio](https://github.com/janapc03/my-portfolio.git) to s
 - Data Visualization & Tools: Microsoft Office Suite (Excel, Word, PowerPoint), Power BI, Git, Google Cloud
 - Web & Software Development: HTML, CSS, PHP, JSON, Oracle, Unity
 
-### 👋🏻 Connect with Me
+### 🖇️ Connect with Me
 Connect with me on [LinkedIn](https://www.linkedin.com/in/janachittarath/)!
 
 <!--
