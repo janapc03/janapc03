@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Jana! 
 
 ### 📚 Projects
-[My portfolio](https://github.com/janapc03/my-portfolio.git) is currently under construction, but feel free to take a look at the current progress!
+Take a look at [my portfolio](https://github.com/janapc03/my-portfolio.git) to see a summary of my past and current projects!
 
 ### 🛠️ Tools
 - Programming & Analysis: R, Python, SQL, Java, C++, JavaScript
